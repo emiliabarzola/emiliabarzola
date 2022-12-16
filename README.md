@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 <p align="center"> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Emilia.+Welcome!)]
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Emilia.+Welcome!)
+- 🔭 I’m currently working on Data Science
