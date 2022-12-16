@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-<p align="left"> </p>
+<p align="center"> </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi+👋+I'm+Emilia.+Welcome!)
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+👋+I'm+Emilia.+Welcome!)]
