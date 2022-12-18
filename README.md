@@ -56,4 +56,12 @@ Here are some ideas to get you started:
 [![Google Cloud Big Data and Machine LearningFundamentals](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/B6DPRU3ARB2J "Google Cloud Big Data and Machine LearningFundamentals")
 [![Foundations of User Experience (UX) Design](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/N9GXDB3P4WRK "Foundations of User Experience (UX) Design")
 
+[![Emotion AI: Facial Key-points Detection](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/KPR3FYZDXLKP "Emotion AI: Facial Key-points Detection")
+
+[![Machine Learning](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/K939X6S5DRPN "Machine Learning")
+
+
+
+
+
 
