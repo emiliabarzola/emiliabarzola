@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 [![Introduction to Cybersecurity Tools & Cyber Attacks](https://images.credly.com/size/110x110/images/0eedb945-52e8-4b9b-bdf6-4ebdd50ca0c8/Intro_to_Cybersec_tools_-_cyber_attacks.png)](https://www.credly.com/badges/7086ac20-c869-44f9-87bd-8387de6571af "Introduction to Cybersecurity Tools & Cyber Attacks")
 [![Web Development with HTML, CSS, JavaScript Essentials](https://images.credly.com/size/110x110/images/6240e108-1407-4773-8621-cc2e4736d4e6/Web_Development_with_HTML-CSS-JavaScript_Essentials.png)](https://www.credly.com/badges/20bd2506-8a23-4197-a4eb-96fda75820e3 "Web Development with HTML, CSS, JavaScript Essentials")
 
+[![Git and GitHub Essentials](https://images.credly.com/size/110x110/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)](https://www.credly.com/earner/earned/badge/f3b60d20-e93b-4c87-aebf-4e9406e61304 "Git and GitHub Essentials")
+
+
 
 [![Building AI Powered Chatbots Without Programming](https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=1679529600&v=beta&t=Y4p-AWLr1lZq3vo6xoffLPhQ1I-Pb-n_rDdxcHNvkYE)](https://www.coursera.org/account/accomplishments/verify/NWNZSV2C9Z7W "Building AI Powered Chatbots Without Programming")
 [![Python for Data Science, AI & Development](https://media.licdn.com/dms/image/C560BAQE9wp87-KDfwg/company-logo_100_100/0/1657054972290?e=1679529600&v=beta&t=Y4p-AWLr1lZq3vo6xoffLPhQ1I-Pb-n_rDdxcHNvkYE)](https://www.coursera.org/account/accomplishments/verify/NWNZSV2C9Z7W "Python for Data Science, AI & Development")
