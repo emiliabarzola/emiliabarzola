@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 [![Machine Learning](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/K939X6S5DRPN "Machine Learning")
 
+<!--END_SECTION:badges-->
 
 
 
