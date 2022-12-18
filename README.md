@@ -57,14 +57,3 @@ Here are some ideas to get you started:
 [![Foundations of User Experience (UX) Design](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/4a/cb36835ae3421187080898a7ecc11d/Google-G_360x360.png?auto=format%2Ccompress&dpr=1&w=80&h=80)](https://www.coursera.org/account/accomplishments/verify/N9GXDB3P4WRK "Foundations of User Experience (UX) Design")
 
 
-
-
-
-
-
-
-
-
-<!--END_SECTION:badges-->
-
-
